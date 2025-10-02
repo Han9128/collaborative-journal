@@ -1,6 +1,4 @@
 Day 1: Traveled back to see the dinasour.
-<<<<<<< HEAD
 Day 3: Met Aliens on Mars.
-=======
 Day 2: Witnessed the first moon landing in 1969
->>>>>>> 62ca546ee4b5b41032a765e1c04ad39282caeff8
+Day 3: Prevented a time paradox
